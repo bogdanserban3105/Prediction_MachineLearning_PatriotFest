@@ -1,5 +1,5 @@
 # I.În ce constă caracterul de inovare al proiectului? Prin ce diferă față de alte abordări potențial existente pe piață?
-Caracterul inovator al proiectului constă în utilizarea rețelelor neuronale artificiale pentru a realiza predicții asupra valorilor de debit ale unui aparat și, ulterior, pentru a calcula costul total al energiei consumate. Această abordare se deosebește prin faptul că:
+## Caracterul inovator al proiectului constă în utilizarea rețelelor neuronale artificiale pentru a realiza predicții asupra valorilor de debit ale unui aparat și, ulterior, pentru a calcula costul total al energiei consumate. Această abordare se deosebește prin faptul că:
 
 ## 1.Utilizarea Rețelelor Neuronale Artificiale (RNA):
 
@@ -26,7 +26,7 @@ Caracterul inovator al proiectului constă în utilizarea rețelelor neuronale a
 # II.Descrieți conceptele, tehnologiile, standardele pe care le-ați utilizat și/sau generat în realizarea proiectului.
 
 
-În realizarea proiectului, au fost utilizate și integrate diverse concepte, tehnologii și standarde pentru a asigura funcționalitatea și eficiența acestuia. Mai jos sunt detaliile relevante:
+## În realizarea proiectului, au fost utilizate și integrate diverse concepte, tehnologii și standarde pentru a asigura funcționalitatea și eficiența acestuia. Mai jos sunt detaliile relevante:
 
 ## 1.Concepte de Machine Learning:
 
@@ -100,7 +100,7 @@ Prin integrarea acestor concepte, tehnologii și standarde, proiectul a fost dez
 
 # Evaluarea Performanței:
 
-Pentru a evalua performanța proiectului, se pot utiliza următoarele metrici:
+## Pentru a evalua performanța proiectului, se pot utiliza următoarele metrici:
 
 ## 1.Acuratețe:
 
@@ -131,7 +131,7 @@ Aceste metrici pot fi ajustate în funcție de natura specifică a problemei și
 
 # IV.Despre capabilitățile viitoare: descrieți intențiile de dezvoltare ulterioară a capabilităților. Dacă este cazul, descrieți și modul în care credeți că instituțiile organizatoare vă pot sprijini în dezvoltarea proiectului. 
 
-**Capabilități Viitoare:**
+## **Capabilități Viitoare:**
 
 ## 1. **Extinderea Pe Diverse Domenii:**
    - Algoritmul dezvoltat pentru predicția debitului poate fi adaptat și utilizat pentru orice tip de date MISO (Multiple Input Single Output), extinzând astfel aplicația către diverse domenii. Acest lucru deschide posibilități în sectoare precum sănătatea, finanțele, producția, și multe altele.
@@ -152,7 +152,7 @@ Aceste metrici pot fi ajustate în funcție de natura specifică a problemei și
 ## 6. **Securitate și Confidențialitate:**
 - Îmbunătățirea securității și gestionării confidențialității datelor, în special în contextul utilizării în instituții care impun standarde ridicate în acest sens.
 
-**Sprijin Instituțional:**
+## **Sprijin Instituțional:**
 
 ## 1. **Colaborare cu Instituții din Domeniul Securității Naționale:**
 - Cooperarea continuă și extinderea parteneriatului cu instituții precum Ministerul Apărării Naționale, Ministerul Afacerilor Interne, Serviciul Român de Informații, Serviciul de Telecomunicații Speciale, Serviciul de Protecție și Pază.
