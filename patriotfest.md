@@ -133,43 +133,43 @@ Aceste metrici pot fi ajustate în funcție de natura specifică a problemei și
 
 **Capabilități Viitoare:**
 
-1. **Extinderea Pe Diverse Domenii:**
+## 1. **Extinderea Pe Diverse Domenii:**
    - Algoritmul dezvoltat pentru predicția debitului poate fi adaptat și utilizat pentru orice tip de date MISO (Multiple Input Single Output), extinzând astfel aplicația către diverse domenii. Acest lucru deschide posibilități în sectoare precum sănătatea, finanțele, producția, și multe altele.
 
-2. **Optimizare și Scalabilitate:**
+## 2. **Optimizare și Scalabilitate:**
 - Îmbunătățirea eficienței și optimizarea algoritmului pentru a face față unor seturi de date mai mari și diverse.
 - Scalabilitatea pentru utilizarea în contexte de producție cu volum mare de date.
 
-3. **Interfață Utilizator Avansată:**
+## 3. **Interfață Utilizator Avansată:**
 - Dezvoltarea unei interfețe utilizator avansate pentru configurarea și vizualizarea rezultatelor predicțiilor, facilitând interacțiunea cu utilizatorii.
 
-4. **Integrare cu Sisteme Externe:**
+## 4. **Integrare cu Sisteme Externe:**
 - Extinderea capacității de integrare cu alte sisteme și platforme, inclusiv sistemele existente ale instituțiilor partenere.
 
-5. **Dezvoltarea unor Module Adiționale:**
+## 5. **Dezvoltarea unor Module Adiționale:**
 - Adăugarea de module suplimentare pentru analiza datelor, optimizarea modelului, și generarea de rapoarte detaliate.
 
-6. **Securitate și Confidențialitate:**
+## 6. **Securitate și Confidențialitate:**
 - Îmbunătățirea securității și gestionării confidențialității datelor, în special în contextul utilizării în instituții care impun standarde ridicate în acest sens.
 
 **Sprijin Instituțional:**
 
-1. **Colaborare cu Instituții din Domeniul Securității Naționale:**
+## 1. **Colaborare cu Instituții din Domeniul Securității Naționale:**
 - Cooperarea continuă și extinderea parteneriatului cu instituții precum Ministerul Apărării Naționale, Ministerul Afacerilor Interne, Serviciul Român de Informații, Serviciul de Telecomunicații Speciale, Serviciul de Protecție și Pază.
 - Participarea acestor instituții la proiect poate aduce resurse suplimentare, expertiză și sprijin logistic.
 
-2. **Inovare și Cooperare cu New Strategy Center:**
+## 2. **Inovare și Cooperare cu New Strategy Center:**
 - Continuarea colaborării cu New Strategy Center pentru organizarea concursului PatriotFest și pentru identificarea de noi oportunități de dezvoltare și finanțare.
 - Implicarea asociației în promovarea proiectului și facilitarea legăturilor cu posibili parteneri sau sponsori.
 
-3. **Participare la Evenimente și Expoziții:**
+## 3. **Participare la Evenimente și Expoziții:**
 - Prezentarea proiectului la evenimente și expoziții relevante pentru a atrage atenția comunității de specialitate și a identifica noi oportunități de colaborare sau finanțare.
 
-4. **Atrageți Expertiză și Resurse Tehnice:**
+## 4. **Atrageți Expertiză și Resurse Tehnice:**
 - Identificarea și atragerea experților în domeniul machine learning, inteligență artificială și securitate pentru a consolida echipa de dezvoltare.
 - Acces la resurse tehnice și tehnologice avansate care pot contribui la optimizarea și extinderea proiectului.
 
-5. **Apel la Finanțare Publică sau Privată:**
+## 5. **Apel la Finanțare Publică sau Privată:**
 - Participarea la programe de finanțare publică sau obținerea de sprijin din partea sectorului privat pentru a asigura continuitatea și dezvoltarea proiectului.
 
 Prin aceste inițiative, proiectul poate evolua într-o soluție cuprinzătoare și inovatoare, adresând nevoile specifice ale instituțiilor partenere și având un impact semnificativ în diverse domenii de aplicare.
