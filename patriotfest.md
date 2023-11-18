@@ -1,4 +1,4 @@
-# În ce constă caracterul de inovare al proiectului? Prin ce diferă față de alte abordări potențial existente pe piață?
+# I.În ce constă caracterul de inovare al proiectului? Prin ce diferă față de alte abordări potențial existente pe piață?
 Caracterul inovator al proiectului constă în utilizarea rețelelor neuronale artificiale pentru a realiza predicții asupra valorilor de debit ale unui aparat și, ulterior, pentru a calcula costul total al energiei consumate. Această abordare se deosebește prin faptul că:
 
 ## 1.Utilizarea Rețelelor Neuronale Artificiale (RNA):
@@ -23,7 +23,7 @@ Caracterul inovator al proiectului constă în utilizarea rețelelor neuronale a
 - Datele prezise de algoritmul de machine learning sunt destinate să fie preluate de Node Red și ulterior încărcate într-o bază de date din Cloud. Aceasta deschide posibilități de integrare cu alte platforme și sisteme, extinzând funcționalitățile proiectului și permitând utilizatorilor să beneficieze de datele prezise în contextul lor specific.
 - Aceste caracteristici împreună contribuie la inovația proiectului, oferind o soluție eficientă și personalizabilă pentru realizarea de predicții cu privire la valorile de debit ale unui aparat și calcularea costului total al energiei consumate.
 
-# Descrieți conceptele, tehnologiile, standardele pe care le-ați utilizat și/sau generat în realizarea proiectului.
+# II.Descrieți conceptele, tehnologiile, standardele pe care le-ați utilizat și/sau generat în realizarea proiectului.
 
 
 În realizarea proiectului, au fost utilizate și integrate diverse concepte, tehnologii și standarde pentru a asigura funcționalitatea și eficiența acestuia. Mai jos sunt detaliile relevante:
@@ -76,7 +76,7 @@ Caracterul inovator al proiectului constă în utilizarea rețelelor neuronale a
   
 Prin integrarea acestor concepte, tehnologii și standarde, proiectul a fost dezvoltat într-un mod inovator și eficient, furnizând o soluție flexibilă pentru realizarea de predicții asupra datelor de debit în contextul specific al consumului de energie.
 
-# Despre capabilitățile existente: descrieți capabilitățile curente și propuneți evaluarea performanței proiectului.  
+# III.Despre capabilitățile existente: descrieți capabilitățile curente și propuneți evaluarea performanței proiectului.  
 
 
 # Capabilități Curente:
@@ -129,7 +129,7 @@ Pentru a evalua performanța proiectului, se pot utiliza următoarele metrici:
 
 Aceste metrici pot fi ajustate în funcție de natura specifică a problemei și a datelor utilizate. Evaluarea trebuie să fie realizată pe seturi de date de testare diverse și reprezentative pentru a obține o perspectivă comprehensivă asupra performanței modelului.
 
-# Despre capabilitățile viitoare: descrieți intențiile de dezvoltare ulterioară a capabilităților. Dacă este cazul, descrieți și modul în care credeți că instituțiile organizatoare vă pot sprijini în dezvoltarea proiectului. 
+# IV.Despre capabilitățile viitoare: descrieți intențiile de dezvoltare ulterioară a capabilităților. Dacă este cazul, descrieți și modul în care credeți că instituțiile organizatoare vă pot sprijini în dezvoltarea proiectului. 
 
 **Capabilități Viitoare:**
 
